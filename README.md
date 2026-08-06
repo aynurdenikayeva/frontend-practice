@@ -9,7 +9,7 @@ This repository contains the frontend projects and practice tasks I completed du
 - JavaScript (ES6+)
 - Git & GitHub
   
-- ## 📂 Projects
+## 📂 Projects
 
 | No | Project | Status |
 |----|---------|--------|
