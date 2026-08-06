@@ -12,7 +12,7 @@ This repository contains the frontend projects and practice tasks I completed du
 
 | No | Project | Status |
 |----|---------|--------|
-| 01 | Sailor Task (Home) | 
+| 01 | Sailor Task (Home) | ⏳ |
 
 
 > This repository is continuously updated as I complete new frontend projects and assignments.
