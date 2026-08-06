@@ -8,6 +8,7 @@ This repository contains the frontend projects and practice tasks I completed du
 - CSS3
 - JavaScript (ES6+)
 - Git & GitHub
+- 
 - ## 📂 Projects
 
 | No | Project | Status |
