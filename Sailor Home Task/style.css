@@ -13,9 +13,7 @@
 a {
   text-decoration: none;
   color: inherit;
-  transition:
-    color var(--transition-speed) ease,
-    background-color var(--transition-speed) ease;
+  transition:color var(--transition-speed) ease,background-color var(--transition-speed) ease;
 }
 section {
   padding: 60px 0;
@@ -297,13 +295,13 @@ header.navbar {
 
 .portfolio-container {
   column-count: 3;
+
 }
 .portfolio-item {
   display: inline-block;
   width: 100%;
   margin-bottom: 24px;
-  break-inside: avoid;
-  vertical-align: top;
+  
 }
 
 .portfolio-card {

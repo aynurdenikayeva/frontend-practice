@@ -46,22 +46,39 @@ clients.forEach(client => {
 });
 
 let filters = document.querySelectorAll(".portfolio-filters li");
+let portfolioContainer = document.querySelector(".portfolio-container");
 let items = document.querySelectorAll(".portfolio-item");
-
+  
 filters.forEach(filter => {
     filter.addEventListener("click", () => {
         filters.forEach(item => {
             item.classList.remove("filter-active");
         });
         filter.classList.add("filter-active");
+      
         let category = filter.getAttribute("data-filter");
+        if (category === "all") {
+            portfolioContainer.style.display = "block"; 
+        } else {
+            portfolioContainer.style.display = "flex";
+            portfolioContainer.style.flexWrap = "wrap"; 
+            portfolioContainer.style.gap = "20px";
+        }
         items.forEach(item => {
             let itemCategory = item.getAttribute("data-category");
             if (category === "all" || category === itemCategory) {
                 item.style.display = "inline-block";
+                if (category !== "all") {
+                    item.style.flex = "0 0 calc(33.333% - 14px)";
+                    item.style.width = "calc(33.333% - 14px)"; 
+                } else {
+                    item.style.flex = "";
+                    item.style.width = ""; 
+                }
             } else {
                 item.style.display = "none";
             }
         });
     });
 });
+
