@@ -119,7 +119,7 @@ const Home = () => {
           />
           <div className="absolute inset-0 bg-black/40" />
           <div className="absolute inset-0 flex items-center justify-center">
-            <div className="relative flex items-center justify-center w-24.75 h-24.75 rounded-full border border-white/60 bg-transparent transition-all duration-300 group-hover:border-[#1890ff] overflow-hidden">
+            <div className="relative flex items-center justify-center w-24.75 h-24.75 rounded-full border bg-transparent transition-all duration-300  overflow-hidden">
               <div className="absolute inset-0 bg-white/5 opacity-0 backdrop-blur-2xl transition-all duration-300 group-hover:opacity-100" />
               <div className="relative z-10 w-0 h-0 ml-2 border-t-14 border-t-transparent border-b-14 border-b-transparent border-l-24 border-l-white rounded-sm transition-transform duration-300 group-hover:scale-110" />
             </div>

@@ -3,7 +3,7 @@ import { HistoryOutlined, ShoppingOutlined, CreditCardOutlined, DollarOutlined }
 
 const FeatureSection = () => {
   return (
-    <section className="w-full bg-white py-16 px-4">
+    <section className="w-full bg-white py-12 px-4">
 
       <div className="max-w-328 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-12 gap-y-16">
         
