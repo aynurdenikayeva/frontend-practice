@@ -7,6 +7,7 @@ This repository contains the frontend projects and practice tasks I completed du
 - HTML5
 - CSS3
 - Tailwind CSS
+- Ant Design
 - JavaScript (ES6+)
 - React
 - Git & GitHub
@@ -17,6 +18,8 @@ This repository contains the frontend projects and practice tasks I completed du
 |----|---------|--------|
 | 01 | Sailor Task (Home) | ✅  |
 | 02 | Flower Magazin Task (Home) | ✅  |
+| 03 | Furniture Web Task (Home) | ✅  |
+
 
 
 > This repository is continuously updated as I complete new frontend projects and assignments.
