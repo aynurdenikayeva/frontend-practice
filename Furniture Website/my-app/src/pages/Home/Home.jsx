@@ -30,17 +30,17 @@ const Home = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-          <div className="group relative rounded-2xl p-4 flex flex-col justify-between transition-all duration-300 hover:shadow-lg bg-white border border-[#E9E9E9]">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 text-center">
+          <div className="group relative ">
             <div>
-              <span className="absolute top-6 left-6 z-10 bg-[#FF4D4F] text-white text-xs font-bold uppercase px-3 py-1 rounded-full shadow-sm">
+              <span className="absolute top-6 left-6 z-10 text-[#BFBFBF] text-xs font-bold uppercase px-3 py-1 ">
                 Sale
               </span>
-              <div className="w-full aspect-square bg-[#F5F5F5] rounded-xl overflow-hidden mb-4">
+              <div className="w-full  bg-[#F5F5F5]  overflow-hidden mb-4">
                 <img
-                  src={rect5}
+                  src={rect6}
                   alt="Pot"
-                  className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover object-center "
                 />
               </div>
               <h3 className="text-lg font-semibold text-[#2B2B2B] mb-1">Pot</h3>
@@ -48,16 +48,16 @@ const Home = () => {
             <p className="text-xl font-bold text-[#929292] mt-2">$ 223,00</p>
           </div>
 
-          <div className="group relative rounded-2xl p-4 flex flex-col justify-between transition-all duration-300 hover:shadow-lg bg-white border border-[#E9E9E9]">
+          <div className="group relative ">
             <div>
-              <span className="absolute top-6 left-6 z-10 bg-[#52C41A] text-white text-xs font-bold uppercase px-3 py-1 rounded-full shadow-sm">
+              <span className="absolute top-6 left-6 z-10 text-[#BFBFBF] text-xs font-bold uppercase px-3 py-1 ">
                 New
               </span>
-              <div className="w-full aspect-square bg-[#F5F5F5] rounded-xl overflow-hidden mb-4">
+              <div className="w-full  bg-[#F5F5F5]  overflow-hidden mb-4">
                 <img
-                  src={rect6}
+                  src={rect7}
                   alt="Lamp"
-                  className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover object-center "
                 />
               </div>
               <h3 className="text-lg font-semibold text-[#2B2B2B] mb-1">
@@ -67,16 +67,16 @@ const Home = () => {
             <p className="text-xl font-bold text-[#929292] mt-2">$ 223,00</p>
           </div>
 
-          <div className="group relative rounded-2xl p-4 flex flex-col justify-between transition-all duration-300 hover:shadow-lg bg-white border border-[#E9E9E9]">
+          <div className="group relative ">
             <div>
-              <span className="absolute top-6 left-6 z-10 bg-[#BFBFBF] text-white text-xs font-bold uppercase px-3 py-1 rounded-full shadow-sm">
+              <span className="absolute top-6 left-6 z-10 text-[#BFBFBF] text-xs font-bold uppercase px-3 py-1 ">
                 Sold
               </span>
-              <div className="w-full aspect-square bg-[#F5F5F5] rounded-xl overflow-hidden mb-4 relative">
+              <div className="w-full  bg-[#F5F5F5]  overflow-hidden mb-4 relative">
                 <img
-                  src={rect7}
+                  src={rect5}
                   alt="Chair"
-                  className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300"
+                  className="w-full h-full object-cover object-center "
                 />
               </div>
               <h3 className="text-lg font-semibold text-[#8C8C8C] mb-1">
