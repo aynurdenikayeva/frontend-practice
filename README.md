@@ -16,9 +16,11 @@ This repository contains the frontend projects and practice tasks I completed du
 
 | No | Project | Status |
 |----|---------|--------|
-| 01 | Sailor Task (Home) | ✅  |
-| 02 | Flower Magazin Task (Home) | ✅  |
-| 03 | Furniture Web Task (Home) | ✅  |
+| 01 | Sailor Task  | ✅  |
+| 02 | Flower Magazin Task  | ✅  |
+| 03 | Furniture Web Task  | ✅  |
+| 04 | Educate Web Task  | ✅  |
+
 
 
 
