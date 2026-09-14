@@ -20,7 +20,7 @@ This repository contains the frontend projects and practice tasks I completed du
 | 02 | Flower Magazin Task  | ✅  |
 | 03 | Furniture Web Task  | ✅  |
 | 04 | Educate Web Task  | ✅  |
-
+| 05 | Login Web Task  | ✅  |
 
 
 
