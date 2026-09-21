@@ -21,6 +21,8 @@ This repository contains the frontend projects and practice tasks I completed du
 | 03 | Furniture Web Task  | ✅  |
 | 04 | Educate Web Task  | ✅  |
 | 05 | Login Web Task  | ✅  |
+| 06 | Landing Page Web Task  | ✅  |
+| 07 | Coffee Shop Web Task  | ✅  |
 
 
 
