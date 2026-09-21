@@ -1,5 +1,5 @@
 import React from "react";
-import rect5 from "../../assets/Rectangle 5.png";
+import rect5 from '../../assets/Rectangle 5.png'
 import rect6 from "../../assets/Rectangle 6.png";
 import rect7 from "../../assets/Rectangle 7.png";
 import rect8 from "../../assets/Rectangle 8.png";

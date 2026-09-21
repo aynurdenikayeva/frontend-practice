@@ -6,6 +6,8 @@ import Shop from './pages/Shop/Shop'
 import About from './pages/About/About'
 import Blog from './pages/Blog/Blog'
 import { BrowserRouter, Routes, Route } from 'react-router'
+import Header from './components/Header/Header'
+import Footer from './components/Footer/Footer'
 
 function App() {
   return (
@@ -19,6 +21,7 @@ function App() {
         </Route>
       </Routes> 
     </BrowserRouter>
+
   )
 }
 
